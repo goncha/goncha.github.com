@@ -1,7 +1,8 @@
-goncha.github.com
+﻿goncha.github.com
 =================
 
 Personal Blog Site
 
-[Home Site]:http://goncha.github.com/
+个人博客站点
 
+[Blog Site](http://goncha.github.com/)
